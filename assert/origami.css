@@ -17,11 +17,11 @@ a:hover {
 
 #logo {
 	background-image: url('../images/origami.png');
-	height: 512px;
-	margin-left: -125px;
+	height: 300px;
+	margin-left: 50px;
 	position: absolute;
-	top: -70px;
-	width: 512px;
+	top: 120px;
+	width: 300px;
 }
 
 @media all and (-webkit-min-device-pixel-ratio: 1.5) {
